@@ -1,4 +1,4 @@
-## Ex 8 (E) Hackerrank:Python Program to Check if a String Ends with a Numeric Digit
+## EX 8 (E) Hackerrank:Python Program to Check if a String Ends with a Numeric Digit
 
 This Python program checks whether the last character of a given input string is a **numeric digit (0–9)**.
 
