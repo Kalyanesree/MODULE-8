@@ -3,7 +3,6 @@
 This program reads student names and their corresponding grades, identifies the **second lowest grade**, and prints the names of all students who have that grade in **alphabetical order**.
 
 ---
-
 ## Aim
 
 To write a Python program to:
@@ -12,7 +11,6 @@ To write a Python program to:
 - Print the names of students who have that grade, sorted alphabetically.
 
 ---
-
 ## Algorithm
 
 1. **Read** an integer `n` representing the number of students.
