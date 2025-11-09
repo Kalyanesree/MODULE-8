@@ -3,7 +3,6 @@
 This Python program checks whether the last character of a given input string is a **numeric digit (0–9)**.
 
 ---
-
 ## Aim
 
 To write a Python program that checks if a given string ends with a number using Python's built-in string methods.
